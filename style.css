@@ -1,0 +1,9 @@
+body {
+    background-color: aqua;
+    text-align: center;
+}
+
+#gifs {
+    padding: 25px;
+    margin: 25px;
+}

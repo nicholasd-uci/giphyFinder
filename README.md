@@ -8,7 +8,7 @@
     - GIVEN a user wants to find a GIF
     - THEN the user can search for the GIF
     - GIVEN any value in the text input field
-    - THEN random GIFs will display depending on text value
+    - THEN random GIFs will display to match text value
 
 ```
 
@@ -21,13 +21,13 @@
 
 ![axios](./photos/axios.PNG)
 
-##                        Home Page
+## Home Page
 
 ![gif](./photos/gif.gif)
 
 ## LINKS
 
-- [jQueryAJAX Link](https://nicholasd-uci.github.io/giphyFinder/)
+- [giphyFinder Link](https://nicholasd-uci.github.io/giphyFinder/)
 - [Github Repo Link](https://github.com/nicholasd-uci/giphyFinder)
 - [Nicholas Dallas GitHub](https://github.com/nicholasd-uci)
 

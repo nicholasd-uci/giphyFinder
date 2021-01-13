@@ -28,7 +28,7 @@
 ## LINKS
 
 - [giphyFinder Link](https://nicholasd-uci.github.io/giphyFinder/)
-- [Github Repo Link](https://github.com/nicholasd-uci/giphyFinder)
+- [GitHub Repo Link](https://github.com/nicholasd-uci/giphyFinder)
 - [Nicholas Dallas GitHub](https://github.com/nicholasd-uci)
 
 - - -

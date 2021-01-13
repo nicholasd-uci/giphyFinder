@@ -1,3 +1,4 @@
+
 document.getElementById('searchGif').addEventListener('click', event => {
     event.preventDefault()
 
@@ -21,4 +22,3 @@ document.getElementById('searchGif').addEventListener('click', event => {
   })
 
 
-  
